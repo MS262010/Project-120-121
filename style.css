@@ -1,0 +1,75 @@
+h1{
+    font-family: 'VT323', monospace;
+    color: black !important;
+}
+body{
+text-align: center;
+background-image: linear-gradient(to right,rgb(255, 205, 255),white,rgb(255, 205, 255));
+color: white;
+}
+img{
+    height: 300px;
+}
+#ggl_logo{
+    margin-top: -40px;
+    height:30%
+}
+#versus{
+    margin-top: -40px;
+}
+.btn-primary{
+    width: 12%;
+    height: 6%;
+    font-size: 18px;
+    letter-spacing: 2px;
+}
+.test,.test_sp{
+    background-image: linear-gradient(rgb(24, 44, 82), rgb(87, 54, 124));
+    border-radius: 12px;
+    box-shadow: 5px 5px 10px 6px rgb(128, 123, 129);
+    width: 90%;
+    margin-left: 60px;
+    margin-top: 40px;
+}
+#eg1,#eg2,#eg3,#eg4,#eg5,#eg6,#eg7,#eg8,#eg9{
+    border-radius: 15px;
+    border: 5px white dashed;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+h4{
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 25px;
+}
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width:100%;
+    background-color:rgb(83, 19, 74);
+    line-height:2;
+    text-align: center;
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 15px;
+}
+span{
+    background-color: pink;
+    color: rgb(82, 25, 97) !important;
+    border-radius: 10px;
+    padding-left: 4px;
+    padding-right: 4px;
+    font-size: 18px;
+    font-family: 'Changa', sans-serif;
+}
+.test_sp,#conclusion{
+    margin-bottom: 60px;
+}
+#conclusion{
+    margin-top: 3350px;
+    background-color: rgb(105, 24, 69);
+    width: 70%;
+    padding: 20px;
+    border-radius: 20px;
+    font-family: 'Quintessential', cursive !important;
+    letter-spacing: 2px;
+    line-height: 80%;
+}
